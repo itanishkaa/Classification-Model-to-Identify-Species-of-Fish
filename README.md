@@ -12,13 +12,6 @@ The dataset `Fish.csv` contains information about different fish species, with t
 - **Width:** Width of the fish.
 - **Length1, Length2, Length3:** Different length measurements of the fish.
 
-```markdown
-| Category | Species | Weight | Height | Width | Length1 | Length2 | Length3 |
-|:-----|:--------:|:------:|:-----:|:--------:|:------:|:-----:|--------:|
-| 1 | Bream | 242.0 | 11.52 | 4.02 | 23.2 | 25.4 | 30.0 |
-| 1 | Bream | 290.0 | 12.48 | 4.31 | 24.0 | 26.3 | 31.2 |
-```
-
 ## Requirements
 The following libraries are required to run the code in the Jupyter notebook
 - pandas
